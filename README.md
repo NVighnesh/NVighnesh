@@ -115,12 +115,23 @@ Full-stack learning platform for course management, user interaction, learning c
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NVighnesh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&rank_icon=github" alt="Vighnesh's GitHub statistics"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NVighnesh&layout=compact&langs_count=6&hide_border=true&theme=transparent" alt="Vighnesh's top languages"/>
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=NVighnesh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&rank_icon=github"
+    alt="GitHub Statistics"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NVighnesh&layout=compact&langs_count=6&hide_border=true&theme=transparent"
+    alt="Most Used Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=NVighnesh&hide_border=true&theme=transparent" alt="Vighnesh's GitHub contribution streak"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=NVighnesh&hide_border=true&area=true&theme=github-compact"
+    alt="GitHub Contribution Graph"
+  />
 </p>
 
 ---
