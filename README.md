@@ -8,7 +8,7 @@
 
 <p>Building secure, scalable applications and practical AI-powered systems.</p>
 
-<a href="https://www.linkedin.com/in/n-vighnesh-5b74aa24a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/n-vighesh-5b74aa24a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 &nbsp;
 <a href="https://portfoliovighnesh.w3spaces.com"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
 &nbsp;
@@ -26,14 +26,16 @@ Computer Science & Engineering graduate focused on **Java Full Stack Development
 
 I build production-oriented systems with **Java, Spring Boot, Spring Security, REST APIs, React, SQL, JPA/Hibernate, and relational databases**, along with AI applications using **Generative AI, RAG, LLMs, embeddings, AI agents, and computer vision**.
 
-My interests include clean architecture, secure development, scalable systems, and turning practical problems into reliable software.
+I enjoy designing clean architectures, building secure systems, and turning practical problems into reliable software.
+
+**Focus:** Java Full Stack · AI Engineering · Generative AI · Cloud & Scalable Systems
 
 ---
 
 ## 🛠️ Core Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,react,javascript,python,nodejs,express,mongodb,postgresql,mysql,docker,aws,git,github&perline=7" alt="Core technologies"/>
+<img src="https://skillicons.dev/icons?i=java,spring,react,javascript,nodejs,express,python,mongodb,mysql,postgresql,docker,aws,git,github&perline=7" alt="Core technologies"/>
 </p>
 
 | Area | Technologies |
@@ -80,8 +82,6 @@ Full-stack food ordering application with authentication, role-based access, car
 
 **Java · Spring Boot · Spring Security · React · JPA · Hibernate · JWT**
 
-🔗 [Live Application](https://minifoodorderapp--w3s7kz0vfr.expo.app/)
-
 ### 🛒 MERN E-Commerce Platform
 
 Full-stack e-commerce application with authentication, product management, shopping workflows, and cloud deployment.
@@ -102,11 +102,11 @@ Full-stack learning platform for course management, user interaction, learning c
 
 ## 🏆 Certifications & Credentials
 
-<p>Professional credentials spanning enterprise Java, cloud-connected development, Salesforce, and RPA.</p>
+> Professional credentials across enterprise development, AI, Salesforce, and automation.
 
 - 🔴 [**Red Hat Certified Enterprise Application Developer**](https://www.credly.com/badges/dc7ef7b8-8670-4086-b5ee-275a507f4f0c/public_url)
 - 🟠 [**Oracle Credential**](https://catalog-education.oracle.com/pls/certview/sharebadge?id=FD800713A01373F79A24297B04D460FBF6372E3E6DCF33A77C943DEFB574CF67)
-- 🔵 [**Salesforce Trailhead Credential**](https://www.salesforce.com/trailblazer/tdobu3enx9q36hl3s8)
+- 🔵 [**Salesforce Certified AI Associate**](https://www.salesforce.com/trailblazer/tdobu3enx9q36hl3s8)
 - 🟣 [**Automation Anywhere RPA Credential**](https://certificates.automationanywhere.com/dba75a3b-bd8a-41c9-b475-ab14eb999047#acc.14TOFmBS)
 - 🟢 [**AvaTRIX Credential**](https://www.credly.com/badges/228f2e39-d0f0-49fb-813d-534b6a84b045/public_url)
 
@@ -136,16 +136,9 @@ Full-stack learning platform for course management, user interaction, learning c
 
 ---
 
-## 🌐 Connect
-
-<p align="center">
-<a href="https://www.linkedin.com/in/n-vighnesh-5b74aa24a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://portfoliovighnesh.w3spaces.com"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
-<a href="https://drive.google.com/file/d/1ST5YegZFxj8r1AzRqmP5VyGhlcFexnN9/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-6B21A8?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
-<a href="mailto:Vighneshnv2@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
-
 <div align="center">
+
+### Let's build something meaningful.
 
 **Build · Learn · Solve · Improve · Repeat**
 
