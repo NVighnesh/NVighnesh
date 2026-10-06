@@ -117,19 +117,19 @@ Full-stack learning platform for course management, user interaction, learning c
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=NVighnesh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=NVighnesh&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&cache_seconds=86400"
     alt="GitHub Statistics"
   />
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NVighnesh&layout=compact&langs_count=6&hide_border=true&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NVighnesh&layout=compact&langs_count=6&hide_border=true&theme=transparent&cache_seconds=86400"
     alt="Most Used Languages"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=NVighnesh&hide_border=true&area=true&theme=github-compact"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NVighnesh&theme=github_dark"
     alt="GitHub Contribution Graph"
   />
 </p>
