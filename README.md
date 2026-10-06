@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm NVighnesh 👋
 
-<!--
-**NVighnesh/NVighnesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! This repository contains my profile README and serves as a place to share my projects, interests, and ongoing work.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on: _Add a current project or focus area_
+- 🌱 Currently learning: _Add technologies or topics_
+- 👯 Open to collaborating on: _Add collaboration interests_
+- 💬 Ask me about: _Add areas you enjoy discussing_
+- 📫 Reach me at: _Add your preferred contact method_
+
+## Featured projects
+
+_Add links or short descriptions for projects you would like to highlight._
+
+## Connect
+
+_Add your social or professional profile links here._
