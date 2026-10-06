@@ -10,7 +10,7 @@
 
 <a href="https://www.linkedin.com/in/n-vighesh-5b74aa24a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 &nbsp;
-<a href="https://portfoliovighnesh.w3spaces.com"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://portfolio-vighnesh.onrender.com"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
 &nbsp;
 <a href="https://drive.google.com/file/d/1ST5YegZFxj8r1AzRqmP5VyGhlcFexnN9/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View-6B21A8?style=flat-square&logo=googledrive&logoColor=white" alt="Resume"/></a>
 &nbsp;
@@ -100,7 +100,7 @@ Full-stack learning platform for course management, user interaction, learning c
 
 ---
 
-## 🏆 Certifications & Credentials
+##  Certifications & Credentials
 
 > Professional credentials across enterprise development, AI, Salesforce, and automation.
 
