@@ -60,7 +60,7 @@ I enjoy designing clean architectures, building secure systems, and turning prac
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Projects
 
 ### 🤖 AI Crowd Management System
 
@@ -138,8 +138,6 @@ Full-stack learning platform for course management, user interaction, learning c
 
 <div align="center">
 
-### Let's build something meaningful.
 
-**Build · Learn · Solve · Improve · Repeat**
 
 </div>
