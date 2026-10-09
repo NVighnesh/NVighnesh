@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="2172" height="724" alt="Vighnesh Nedulla - Developer Banner" src="https://github.com/user-attachments/assets/443dcf5c-dfae-4f27-bc33-4aab2a5b3a1d" />
+<img width="2172" height="724" alt="70cfff66-3866-40fd-abed-cf6089abef1a" src="https://github.com/user-attachments/assets/930b01e4-2e62-41da-9c4e-7d0c6b5df4c9" />
 
 # Vighnesh Nedulla
 
